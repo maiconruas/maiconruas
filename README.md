@@ -4,7 +4,7 @@
 </div>
 
 <p>
-Sou estudante de Analise e Desenvolvimento de Sistemas e atualmente trabalho como engenheiro de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho como engenheiro de software.
 </p>
 
 <p>

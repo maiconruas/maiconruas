@@ -26,11 +26,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho co
   
   <br>
   
-  <div>
-  <a href="https://github.com/maiconruas">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconruas&layout=compact&theme=radical" />
-  </div>
-  
   <hr>
  
   <div> 

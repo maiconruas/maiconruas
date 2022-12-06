@@ -20,8 +20,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente trabalho co
   <img align="center" alt="Maicon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Maicon-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Maicon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Maicon-Django" height="70" width="60" src="https://icongr.am/devicon/django-original.svg?size=148&color=currentColor" />
-  <img align="center" alt="Maicon-Spring" height="40" width="40"  src="https://devicons.railway.app/i/spring.svg" />
+ 
+  <img align="center" alt="Maicon-Spring" height="40" width="40"  src="https://devicons.railway.app/i/nodejs.svg" />
   </div>
   
   <br>

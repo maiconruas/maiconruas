@@ -19,9 +19,14 @@ Formado Análise e Desenvolvimento de Sistemas e atualmente trabalho como engenh
   <img align="center" alt="Maicon-Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Maicon-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Maicon-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Maicon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
+  <img align="center" alt="Maicon-Spring" height="40" width="40"  src="https://devicons.railway.app/i/spring.svg" />
+  <img align="center" alt="Maicon-Spring" height="40" width="40"  src="https://devicons.railway.app/i/csharp.svg" />
+  <img align="center" alt="Maicon-Spring" height="40" width="40"  src="https://devicons.railway.app/i/dot-net.svg" />
   <img align="center" alt="Maicon-Spring" height="40" width="40"  src="https://devicons.railway.app/i/nodejs.svg" />
+  <img align="center" alt="Maicon-Spring" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="Maicon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Maicon-Spring" height="40" width="40"  src="https://devicons.railway.app/i/django.svg" />
+  
   </div>
   
   <br>

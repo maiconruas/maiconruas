@@ -2,9 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Maicon+Ruas;I+from+Brasil,+Rio+Grande+do+Sul;I+am+a+full+stack+software+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=maiconruas&show_icons=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maicon Ruas github stats"/></p>
+<p align="center">
+<a href="https://github.com/maiconruas/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=maiconruas&show_icons=true&theme=transparent&rank_icon=github" />
+</a>
+</p>
 
-<p><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=maiconruas&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></p>
+<p align="center">
+<a href="https://github.com/maicoruas/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiconruas&layout=pie&show_icons=true&theme=transparent" />
+</a>
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maiconruas&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
